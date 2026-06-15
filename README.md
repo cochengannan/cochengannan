@@ -1,110 +1,134 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cochengannan%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Educator%20%7C%20Builder%20of%20Things%20That%20Work&descAlignY=62&descSize=16" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1E3A5F,100:2E6DB4&height=200&section=header&text=Cochengannan%20K&fontSize=48&fontColor=E8F4FD&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Programming%20Educator%20%7C%20Problem%20Solver&descAlignY=60&descSize=17&descColor=A8C8E8" alt="header banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/cochengannan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Cochengannan+K+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+Java;Web+Dev+%7C+HTML5+%7C+CSS3+%7C+JS;Programming+Educator+%F0%9F%8E%93;Building+Real+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=2E86C1&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+Java+%2B+JS;Building+Scalable+Web+Applications;Programming+Educator+%40+CSC+Computer+Education;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cochengannan&style=flat-square&color=70A5FD&label=Profile+Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cochengannan&style=flat-square&color=2E86C1&label=Profile+Views" alt="profile views" />
+  &nbsp;
   <a href="mailto:cochengannanofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cochengannanofficial-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Gmail-cochengannanofficial%40gmail.com-1A5276?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://cochengannan.github.io/portfolio/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&logo=githubpages&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E86C1?style=flat-square&logo=githubpages&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-1A5276?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```python
 class CochengannanK:
     def __init__(self):
-        self.name             = "Cochengannan K"
-        self.username         = "cochengannan"
-        self.location         = "Chennai, Tamil Nadu, India 🇮🇳"
-        self.email            = "cochengannanofficial@gmail.com"
-        self.portfolio        = "https://cochengannan.github.io/portfolio/portfolio/"
-        self.degree           = "B.Sc. Computer Science (2020–2023) — 82%"
-        self.college          = "Prince Shri Venkateshwara Arts and Science College, Tambaram"
-        self.roles            = ["Full Stack Developer", "Programming Educator"]
+        self.name          = "Cochengannan K"
+        self.location      = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.email         = "cochengannanofficial@gmail.com"
+        self.portfolio     = "https://cochengannan.github.io/portfolio/portfolio/"
+        self.degree        = "B.Sc. Computer Science — 82% (2020–2023)"
+        self.college       = "Prince Shri Venkateshwara Arts and Science College"
+        self.roles         = ["Full Stack Developer", "Programming Educator"]
 
         self.stack = {
             "web"        : ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
             "languages"  : ["Python", "Java", "C", "C++"],
             "databases"  : ["MySQL", "MongoDB"],
             "tools"      : ["VS Code", "Git", "GitHub", "Replit", "WordPress"],
-            "ai_tools"   : ["ChatGPT", "Gamma", "Leonardo", "Blackbox"],
+            "ai_tools"   : ["ChatGPT", "Gamma", "Leonardo AI", "Blackbox AI"],
         }
 
         self.currently_learning = ["React", "Django", "REST APIs", "Data Analytics"]
 
-        self.certifications = ["J2EE — CSC (2022)", "DAST — CSC (2023)",
-                               "Data Analyst — Novi Tech (Expected 2025)"]
+        self.certifications = [
+            "J2EE — CSC (2022)",
+            "DAST — CSC (2023)",
+            "Data Analyst — Novi Tech (Expected 2025)"
+        ]
 
         self.fun_fact = "I teach Python by day and build web apps by night 🌙"
 
-    def motto(self):
-        return "Learn it. Build it. Teach it. 🚀"
+    def motto(self) -> str:
+        return "Learn it. Build it. Teach it. Repeat. 🚀"
 
 me = CochengannanK()
 print(me.motto())
+# Output: Learn it. Build it. Teach it. Repeat. 🚀
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<p align="center"><b>── Languages ──</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1A5276?style=flat-square&logo=python&logoColor=F0E68C" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-1E3A5F?style=flat-square&logo=openjdk&logoColor=F5CBA7" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-1A5276?style=flat-square&logo=javascript&logoColor=F7DC6F" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C-1E3A5F?style=flat-square&logo=c&logoColor=A9CCE3" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-1A5276?style=flat-square&logo=c%2B%2B&logoColor=A9CCE3" />
 </p>
 
-### 🌐 Web & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<p align="center"><b>── Web & Frameworks ──</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-1E3A5F?style=flat-square&logo=html5&logoColor=F1948A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1A5276?style=flat-square&logo=css3&logoColor=85C1E9" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-1E3A5F?style=flat-square&logo=bootstrap&logoColor=C39BD3" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/WordPress-1A5276?style=flat-square&logo=wordpress&logoColor=A9CCE3" />
 </p>
 
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
+<p align="center"><b>── Databases ──</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-1E3A5F?style=flat-square&logo=mysql&logoColor=85C1E9" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-1A5276?style=flat-square&logo=mongodb&logoColor=A9D18E" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<p align="center"><b>── DevOps & Tools ──</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-1E3A5F?style=flat-square&logo=git&logoColor=F1948A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-1A5276?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-1E3A5F?style=flat-square&logo=visualstudiocode&logoColor=85C1E9" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Replit-1A5276?style=flat-square&logo=replit&logoColor=F5CBA7" />
 </p>
 
-### 🤖 AI Tools
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gamma-6C47FF?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leonardo_AI-FF6B35?style=flat-square&logo=artstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blackbox_AI-000000?style=flat-square&logo=blackberry&logoColor=white" />
+<p align="center"><b>── AI Tools ──</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-1E3A5F?style=flat-square&logo=openai&logoColor=A9D18E" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gamma-1A5276?style=flat-square&logo=notion&logoColor=C39BD3" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Leonardo%20AI-1E3A5F?style=flat-square&logo=artstation&logoColor=F5CBA7" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blackbox%20AI-1A5276?style=flat-square&logo=blackberry&logoColor=white" />
 </p>
 
-### 📊 Productivity
-<p>
-  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
+<p align="center"><b>── Productivity ──</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MS%20Word-1E3A5F?style=flat-square&logo=microsoftword&logoColor=85C1E9" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Excel-1A5276?style=flat-square&logo=microsoftexcel&logoColor=A9D18E" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PowerPoint-1E3A5F?style=flat-square&logo=microsoftpowerpoint&logoColor=F1948A" />
 </p>
 
 ---
@@ -112,8 +136,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cochengannan&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cochengannan&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cochengannan&show_icons=true&theme=tokyonight&bg_color=0A1628&hide_border=false&border_color=2E6DB4&title_color=85C1E9&icon_color=2E86C1&text_color=A8C8E8&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cochengannan&layout=compact&theme=tokyonight&bg_color=0A1628&hide_border=false&border_color=2E6DB4&title_color=85C1E9&text_color=A8C8E8&langs_count=8" />
 </p>
 
 ---
@@ -121,15 +146,15 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cochengannan&theme=tokyonight-duo&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cochengannan&theme=tokyonight-duo&background=0A1628&border=2E6DB4&stroke=2E6DB4&ring=2E86C1&fire=85C1E9&currStreakLabel=A8C8E8&sideLabels=A8C8E8&currStreakNum=E8F4FD&sideNums=E8F4FD&dates=5C85A4&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cochengannan&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&area_color=70A5FD" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cochengannan&theme=tokyo-night&bg_color=0A1628&color=85C1E9&line=2E86C1&point=A8C8E8&area=true&area_color=1E3A5F&hide_border=false&border_color=2E6DB4" alt="Activity Graph" />
 </p>
 
 ---
@@ -137,7 +162,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cochengannan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cochengannan&theme=tokyonight&no-frame=false&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
@@ -145,27 +170,29 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏫 Programming Teacher — CSC Computer Education, Pammal &nbsp;|&nbsp; Apr 2023 – Present</b></summary>
+<summary><b>👨‍🏫 Programming Teacher — CSC Computer Education, Pammal &nbsp;|&nbsp; Apr 2023 – Present</b></summary>
 <br>
 
-- 📚 Taught programming fundamentals (Python, Java, C, C++) to students across skill levels
-- 🔄 Continuously updated curriculum to include emerging technologies and industry best practices
-- 🎯 Fostered a passion for programming, guiding students toward professional growth and real-world project thinking
-- 💡 Designed practical exercises and mini-projects to reinforce conceptual understanding
-- 🌱 Mentored beginners and helped several students transition into tech careers
+- 📚 Taught core programming (Python, Java, C, C++) to students across beginner and intermediate levels
+- 🔄 Continuously updated curriculum to reflect emerging technologies and modern industry standards
+- 🎯 Designed practical mini-projects and exercises to reinforce conceptual learning
+- 💡 Mentored students and guided several toward professional tech career pathways
+- 🌱 Fostered a growth mindset and long-term passion for software development
 
+<br>
 </details>
 
 <details>
 <summary><b>🎧 Customer Support Associate — Sutherland Global Services, Perungalathur &nbsp;|&nbsp; Sep 2023 – May 2025</b></summary>
 <br>
 
-- 🤝 Provided prompt and effective client support, consistently achieving timely issue resolution
-- ⭐ Maintained high professional standards and service quality across every client interaction
-- 🏢 Contributed to organizational integrity and improved customer satisfaction scores
-- 📋 Handled high-volume queries with strong time management and communication skills
-- 🔍 Applied logical thinking and problem-solving to diagnose and escalate technical issues effectively
+- 🤝 Delivered prompt, effective client support with consistent timely issue resolution
+- ⭐ Maintained high professional standards across every client interaction
+- 📋 Handled high-volume queries using strong time management and communication skills
+- 🔍 Applied logical problem-solving to diagnose and escalate technical issues efficiently
+- 🏢 Contributed meaningfully to organizational integrity and customer satisfaction metrics
 
+<br>
 </details>
 
 ---
@@ -174,28 +201,28 @@ print(me.motto())
 
 <p align="center">
 
-| 🗂️ Project | 🛠️ Stack | 📝 Description | 🔑 Key Feature |
+| &nbsp;&nbsp;&nbsp;🗂️ Project&nbsp;&nbsp;&nbsp; | 🛠️ Stack | 📝 Description | 🔑 Key Feature |
 |:---:|:---:|:---|:---:|
-| **[Hacking Detection via Honeycomb](https://github.com/cochengannan)** | Python · Data Analysis · IP Tracking | Analyzed suspicious user behaviour using data, timestamps, IP addresses and geolocation to detect intrusion attempts | Behaviour-based threat detection |
-| **[Train Ticket Booking System](https://github.com/cochengannan)** | HTML5 · CSS3 · JavaScript · MySQL | Full-featured web application for online train ticket reservations with seat selection and booking management | End-to-end booking workflow |
-| **[E-Commerce Website](https://github.com/cochengannan)** | HTML5 · CSS3 · JavaScript · MongoDB | Amazon-inspired shopping platform with product listings, cart functionality and user authentication | Full shopping experience |
+| **[Hacking Detection via Honeycomb](https://github.com/cochengannan)** | Python · Data Analysis · IP Tracking | Detected intrusion attempts by analysing user behaviour, timestamps, IP addresses and geolocation patterns | Behaviour-based threat detection |
+| **[Train Ticket Booking System](https://github.com/cochengannan)** | HTML5 · CSS3 · JavaScript · MySQL | Full-featured web application for online train reservations with seat selection and booking management | End-to-end booking flow |
+| **[E-Commerce Website](https://github.com/cochengannan)** | HTML5 · CSS3 · JavaScript · MongoDB | Amazon-inspired shopping platform with product listings, cart management and user authentication | Complete shopping experience |
 
 </p>
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Certifications
 
 <p align="center">
 
-| 🎖️ Achievement | 🏆 Result | 📅 Year |
+| &nbsp;&nbsp;&nbsp;🎖️ Achievement&nbsp;&nbsp;&nbsp; | 🏆 Result | 📅 Year |
 |:---|:---:|:---:|
-| 🚀 **Smart India Hackathon** — Participant | National-level competition | 2022 & 2023 |
-| 📜 **J2EE Certification** — CSC Computer Education | Certified | 2022 |
-| 📜 **DAST Certification** — CSC Computer Education | Certified | 2023 |
-| 📊 **Data Analyst Certification** — Novi Tech | In Progress | Expected 2025 |
-| 🎓 **B.Sc. Computer Science** — 82% aggregate | Distinction | 2023 |
-| 👨‍🏫 **Programming Educator** | Teaching since graduation | 2023–Present |
+| 🚀 **Smart India Hackathon** — National Participant | Competed at national level | 2022 & 2023 |
+| 📜 **J2EE Certification** — CSC Computer Education | Certified ✅ | 2022 |
+| 📜 **DAST Certification** — CSC Computer Education | Certified ✅ | 2023 |
+| 📊 **Data Analyst Certification** — Novi Tech | In Progress 🔄 | Expected 2025 |
+| 🎓 **B.Sc. Computer Science** — 82% Aggregate | Distinction | 2023 |
+| 👨‍🏫 **Active Programming Educator** | Teaching since graduation | 2023 – Present |
 
 </p>
 
@@ -204,30 +231,34 @@ print(me.motto())
 ## 🎓 Education
 
 <table align="center">
-  <tr>
-    <td align="center">🎓</td>
-    <td>
-      <b>B.Sc. Computer Science</b><br/>
-      Prince Shri Venkateshwara Arts and Science College, Tambaram<br/>
-      📅 2020 – 2023 &nbsp;|&nbsp; 🎯 82%
-    </td>
-  </tr>
-  <tr>
-    <td align="center">📘</td>
-    <td>
-      <b>HSC (12th Grade)</b><br/>
-      Maraya Nivas Matriculation Higher Secondary School, Pozhichalur<br/>
-      📅 2019 &nbsp;|&nbsp; 🎯 57%
-    </td>
-  </tr>
-  <tr>
-    <td align="center">📗</td>
-    <td>
-      <b>SSLC (10th Grade)</b><br/>
-      Uncle Sargunar Matriculation Higher Secondary School, Kamarajapuram<br/>
-      📅 2017 &nbsp;|&nbsp; 🎯 71%
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center">Level</th>
+      <th>Institution</th>
+      <th align="center">Year</th>
+      <th align="center">Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🎓 Degree</td>
+      <td><b>B.Sc. Computer Science</b><br/>Prince Shri Venkateshwara Arts & Science College, Tambaram</td>
+      <td align="center">2020 – 2023</td>
+      <td align="center"><b>82%</b></td>
+    </tr>
+    <tr>
+      <td align="center">📘 HSC</td>
+      <td><b>12th Grade</b><br/>Maraya Nivas Matriculation Higher Secondary School, Pozhichalur</td>
+      <td align="center">2019</td>
+      <td align="center">57%</td>
+    </tr>
+    <tr>
+      <td align="center">📗 SSLC</td>
+      <td><b>10th Grade</b><br/>Uncle Sargunar Matriculation Higher Secondary School, Kamarajapuram</td>
+      <td align="center">2017</td>
+      <td align="center">71%</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -235,46 +266,50 @@ print(me.motto())
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analytics-FF6F00?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1E3A5F?style=flat-square&logo=react&logoColor=61DAFB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Django-1A5276?style=flat-square&logo=django&logoColor=A9D18E" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-1E3A5F?style=flat-square&logo=postman&logoColor=F5CBA7" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Analytics-1A5276?style=flat-square&logo=googleanalytics&logoColor=85C1E9" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-1E3A5F?style=flat-square&logo=docker&logoColor=85C1E9" />
 </p>
 
 ---
 
-## 🎯 Soft Skills & Interests
+## 🤝 Soft Skills
 
 ```
-🧠 Problem Solving          ⏰ Time Management
-💡 Logical Thinking         👥 Leadership & Teamwork
-🎓 Passionate Educator      🌐 Open Source Contributor
-🤖 AI Tools Explorer        📖 Lifelong Learner
+🧠  Problem Solving              ⏰  Time Management
+💡  Logical Thinking             👥  Leadership & Teamwork
+🎓  Passionate Educator          🌐  Web Technology Advocate
+🤖  AI Tools Explorer            📖  Lifelong Learner
 ```
 
 ---
 
 <p align="center">
-  <i>"Learn it. Build it. Teach it. The cycle never stops." 🚀</i>
-</p>
-
-<p align="center">
-  <b>⭐ If you find my work helpful, drop a star on my repos and let's connect!</b>
+  <i>"Learn it. Build it. Teach it. The cycle never stops."</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/cochengannan">
-    <img src="https://img.shields.io/badge/GitHub-cochengannan-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-cochengannan-1A5276?style=flat-square&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:cochengannanofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cochengannanofficial-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-cochengannanofficial%40gmail.com-1E3A5F?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://cochengannan.github.io/portfolio/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-70A5FD?style=flat-square&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-cochengannan.github.io-2E86C1?style=flat-square&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6DB4,50:1E3A5F,100:0A1628&height=120&section=footer" alt="footer" />
 </p>
